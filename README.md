@@ -15,15 +15,13 @@ and the preventive measures used to protect digital systems and data.
 
 
 ## Table of Contents
-1. Introduction to Cybersecurity  
-2. Importance of Cybersecurity  
-3. Major Cyber Threats  
-4. Impact of Cyber Threats  
-5. Real-World Case Studies
-6. Preventive Measures  
-7. Conclusion & Future Scope  
-8. References  
-
+1. Introduction to Cybersecurity
+2. Major Modern Cyber Threats
+3. Impact Analysis4
+4. Real-World Case Studies
+5. Preventive Measures
+6. Conclusions
+7. References
 
 ## Report Details
 - **Title:** Cybersecurity Threat Report
