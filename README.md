@@ -31,8 +31,6 @@ and the preventive measures used to protect digital systems and data.
 - **File Type:** DOCX / PDF  
 
 
-## Repository Structure
-
 ## Author Information
 - **Name:** Thakor Kirankumar Kirtiji  
 - **Role:** Internship Trainee  
